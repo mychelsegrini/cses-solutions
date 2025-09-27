@@ -1,5 +1,3 @@
-// coinCombinations.cpp
-
 #include <cstdio>
 #include <vector>
 #include <cmath>

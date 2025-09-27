@@ -20,12 +20,12 @@ Print the number of ways modulo $10^9+7$.
 
 ## Constraints
 
-- $1 \le n \le 10^6$
+$1 \le n \le 10^6$
 
 ## Example
 
-Input:
+**Input:**  
 3
 
-Output:
+**Output:**  
 4
